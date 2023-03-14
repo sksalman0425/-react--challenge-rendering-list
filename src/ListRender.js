@@ -118,7 +118,7 @@ export default function ListRender() {
   <>
   <h1>Chemists</h1>
   <ul>{chemistslistItems}</ul>
-  <h1>Others</h1>
+  <h1>Everyone Else</h1>
   <ul>{everyOneElselistItems}</ul>
   </> 
   )
